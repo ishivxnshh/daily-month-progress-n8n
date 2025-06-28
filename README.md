@@ -15,4 +15,4 @@ This is an automated n8n workflow that sends a Telegram message every day at 5:0
 2. Add your HCTI & Telegram credentials
 3. Set the Schedule node to your timezone
 
-Made with 💚 by [your name]
+Made with 💚 by Shivansh
